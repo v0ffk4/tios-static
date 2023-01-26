@@ -1,0 +1,50 @@
+# These files are LFS
+*.png binary
+*.bmp binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.ttf binary
+*.eot binary
+*.otf binary
+*.woff binary
+*.woff2 binary
+*.pyc binary
+*.pdf binary
+*.ai binary
+*.psd binary
+*.exe binary
+*.dmg binary
+*.app binary
+*.hdr binary
+*.exr binary
+# Houdini
+*.bgeo binary
+*.bgeo.sc binary
+*.rat binary
+*.exr binary
+*.hdr binary
+*.obj binary
+*.usd binary
+*.usdz binary
+*.hip binary
+*.fbx binary
+*.abc binary
+# Unreal
+# UE file types
+*.uasset binary
+*.umap binary
+# Raw Content types
+*.3ds binary
+*.wav binary
+*.xcf binary
+# GL
+*.bin binary
+

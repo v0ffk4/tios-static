@@ -1,0 +1,50 @@
+/* const size = {
+	test: "900px",
+	iPhoneSePortrait: "320px",
+	iPhoneSeLandscape: "568px",
+	iPhone8Portrait: "375px",
+	iPhone8Landscape: "667px",
+	iPhone8PlusPortrait: "414px",
+	iPhone8PlusLandscape: "736px",
+	iPhoneXPortrait: "375px",
+	iPhoneXLandscape: "812px",
+	iPadAirPortrait: "768px",
+	iPadAirLandscape: "1024px",
+	desktop: "1200px",
+	desktopHd: "1600px",
+	// User
+	xs: "450px",
+	s: "600px",
+	sm: "750px",
+	m: "900px",
+	l: "1200px",
+	xl: "1400px",
+	xxl: "1600px",
+	hd: "1800px",
+};
+
+export const screenSize = {
+	desktop: `(min-width: ${size.desktop})`,
+	desktopHd: `(min-width: ${size.desktopHd})`,
+	// User
+	xs: `(min-width: ${size.xs})`,
+	s: `(min-width: ${size.s})`,
+	sm: `(min-width: ${size.sm})`,
+	m: `(min-width: ${size.m})`,
+	l: `(min-width: ${size.l})`,
+	xl: `(min-width: ${size.xl})`,
+	xxl: `(min-width: ${size.xxl})`,
+	hd: `(min-width: ${size.hd})`,
+};
+ */
+
+:root {
+	--mq-xs: "451px";
+	--mq-s: "601px";
+	--mq-sm: "751px";
+	--mq-m: "901px";
+	--mq-l: "1201px";
+	--mq-xl: "1401px";
+	--mq-xxl: "1601px";
+	--mq-hd: "1801px";
+}

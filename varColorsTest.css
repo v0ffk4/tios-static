@@ -1,0 +1,50 @@
+:root {
+	/* Light  */
+	--color-light-primary: hsla(259.2 100% 66.9% / 1);
+	--color-light-primary: hsla(258.1 82.4% 62.2% / 1);
+	--color-light-primary-hover: hsla(259.2 100% 76.9% / 1);
+	--color-light-on-primary: hsla(256.9 0% 100% / 1);
+	--color-light-primary-container: hsla(262.3 100% 93.1% / 1);
+	--color-light-on-primary-container: hsla(261.1 100% 17.8% / 1);
+
+	--color-light-secondary: hsla(259.1 10.8% 40% / 1);
+	--color-light-on-secondary: hsla(256.9 0% 100% /1);
+	--color-light-secondary-container: hsla(263.1 61.9% 91.8% / 1);
+	--color-light-on-secondary-container: hsla(253.3 26.5% 13.3% / 1);
+
+	--color-light-tertiary: hsla(340.5 20.8% 40.6% / 1);
+	--color-light-on-tertiary: hsla(0 0% 100% / 1);
+	--color-light-tertiary-container: hsla(340 85.7% 91.8% / 1);
+	--color-light-on-tertiary-container: hsla(337.5 48.5% 12.9% / 1);
+
+	--color-light-error: hsla(3.2 71.3% 41% / 1);
+	--color-light-on-error: hsla(0 0% 100% / 1);
+	--color-light-error-container: hsla(6 71.4% 91.8% / 1);
+	--color-light-on-error-container: hsla(3.3 71.1% 14.9% / 1);
+
+	/* --color-light-background: hsla(315 100% 100% / 1); */
+	--color-light-background: hsla(0 0% 100% / 1);
+	--color-light-on-background: hsla(255 6.9% 11.4% / 1);
+
+	--color-light-surface: hsla(0 0% 98% / 1);
+	--color-light-on-surface: hsla(255 6.9% 11.4% / 1);
+
+	--color-light-outline: hsla(270 4.1% 47.5% / 1);
+
+	--color-light-surface-variant: hsla(275 24% 90.2% / 1);
+	--color-light-on-surface-variant: hsla(264 6.8% 29% / 1);
+
+	/* Dark */
+	--color-dark-primary: hsla(0 0% 97% / 1);
+	--color-dark-primary-variant: hsla(0 0% 97% / 1);
+	--color-dark-secondary: hsla(0 0% 97% / 1);
+	--color-dark-secondary-variant: hsla(0 0% 97% / 1);
+	--color-dark-background: hsla(0 0% 97% / 1);
+	--color-dark-surface: hsla(0 0% 10% / 1);
+	--color-dark-error: hsla(0 0% 10% / 1);
+	--color-dark-on-primary: hsla(0 0% 10% / 1);
+	--color-dark-on-secondary: hsla(0 0% 10% / 1);
+	--color-dark-on-background: hsla(0 0% 10% / 1);
+	--color-dark-on-surface: hsla(0 0% 10% / 1);
+	--color-dark-on-error: hsla(0 0% 10% / 1);
+}
