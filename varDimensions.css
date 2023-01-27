@@ -1,6 +1,0 @@
-:root {
-	--header-height-desktop: 4.8rem;
-	--footer-height-desktop: 2.8rem;
-	--main-nav-width-desktop: 6.4rem;
-	--content-padding: calc(var(--main-nav-width-desktop) + 1.6rem);
-}
