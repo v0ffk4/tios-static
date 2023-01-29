@@ -58,6 +58,9 @@
 	--mq-xl: "1401px";
 	--mq-xxl: "1601px";
 	--mq-hd: "1801px";
+
+	/* Dimensions */
+	--main-nav-height-desktop: 6.4rem;
 }
 
 /* * Reset */
