@@ -3930,4 +3930,4 @@ void main() {
 				"📚 📚"
 				"💾 💬";grid-template-columns:1fr 1fr}}@media(min-width: 1201px){.page{display:flex;justify-content:center;align-items:center}.content-box{width:auto;grid-template-areas:"📚 🚀"
 				"💾 🚀"
-				"💬 🚀";grid-template-rows:1fr auto auto}.message-box{display:flex;flex-direction:column;justify-content:flex-end}}@media(min-width: 1401px){h1{margin-left:-6rem}.content-box{grid-template-columns:500px 600px}}</style>`,zt(this,{target:this.shadowRoot,props:Vr(this.attributes),customElement:!0},j_,E_,Bt,{},null),t&&t.target&&lt(t.target,this,t.anchor)}}customElements.define("contact-screen",A_);
+				"💬 🚀";grid-template-rows:1fr auto auto}.message-box{display:flex;flex-direction:column;justify-content:flex-end}}@media(min-width: 1401px){h1{margin-left:-6rem}.content-box{grid-template-columns:500px 600px}.contact-box,.message-box{padding-block:1.6rem}}</style>`,zt(this,{target:this.shadowRoot,props:Vr(this.attributes),customElement:!0},j_,E_,Bt,{},null),t&&t.target&&lt(t.target,this,t.anchor)}}customElements.define("contact-screen",A_);
