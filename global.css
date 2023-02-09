@@ -365,8 +365,8 @@ li {
 
 /* !Vendor overrides */
 .product-item-detail-pay-block {
-	opacity: 0 !important;
-	visibility: hidden !important;
+	/* opacity: 0 !important;
+	visibility: hidden !important; */
 }
 
 .product-item-detail-short-card-fixed,
