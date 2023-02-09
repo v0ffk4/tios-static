@@ -362,3 +362,12 @@ li {
 	visibility: hidden;
 	opacity: 0;
 }
+
+/* !Vendor overrides */
+.product-item-detail-pay-block {
+	display: none !important;
+}
+
+.landing-main {
+	padding-top: calc(4.6rem * 0.625);
+}
