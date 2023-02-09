@@ -369,6 +369,11 @@ li {
 	visibility: hidden !important;
 }
 
+.product-item-detail-short-card-fixed,
+.product-item-detail-tabs-container-fixed {
+	display: none;
+}
+
 .landing-main {
 	padding-top: calc(8rem * 0.625) !important;
 }
