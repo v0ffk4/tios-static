@@ -1,4 +1,5 @@
 /* * Var */
+
 :root {
 	/* Light  */
 	--color-light-primary: hsla(258.1 82.4% 62.2% / 1);
@@ -161,10 +162,6 @@ pre {
 }
 
 /* * Global */
-html {
-	font-size: 62.5%;
-	/* text-rendering: optimizeLegibility; */
-}
 
 /* * Fonts */
 @font-face {
