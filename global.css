@@ -330,8 +330,8 @@ li {
 	content: attr(data-bottom-tooltip);
 	text-align: center;
 	font-family: primaryText;
-	font-size: calc(1.2rem * 0.625);
-	line-height: calc(1.6rem * 0.625);
+	font-size: 12px;
+	line-height: 16px;
 	letter-spacing: 0.1rem;
 	transition: 0.2s ease-out;
 }
