@@ -366,7 +366,7 @@ li {
 /* !Vendor overrides */
 /* *Vendor General */
 .landing-main {
-	padding-top: calc(8rem * 0.625) !important;
+	padding-block: calc(8rem * 0.625) !important;
 }
 
 .product-item-info-container .product-item-hidden {
