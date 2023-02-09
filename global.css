@@ -383,3 +383,7 @@ li {
 	visibility: hidden !important;
 	transition: none !important;
 }
+
+.product-item-hidden[data-entity="quantity-block"] {
+	display: none;
+}
