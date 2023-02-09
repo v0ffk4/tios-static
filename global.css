@@ -403,3 +403,8 @@ li {
 .product-item-detail-tabs-container-fixed {
 	display: none !important;
 }
+
+p,
+h6 {
+	font-size: 1.6rem;
+}
