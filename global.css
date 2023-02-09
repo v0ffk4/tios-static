@@ -371,7 +371,7 @@ li {
 
 .product-item-detail-short-card-fixed,
 .product-item-detail-tabs-container-fixed {
-	display: none;
+	display: none !important;
 }
 
 .landing-main {
