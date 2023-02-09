@@ -365,7 +365,8 @@ li {
 
 /* !Vendor overrides */
 .product-item-detail-pay-block {
-	display: none !important;
+	opacity: 0 !important;
+	visibility: hidden !important;
 }
 
 .landing-main {
