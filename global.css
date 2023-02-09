@@ -59,7 +59,7 @@
 	--mq-hd: "1801px";
 
 	/* Dimensions */
-	--main-nav-height-desktop: 5.8rem;
+	--main-nav-height-desktop: calc(5.8rem * 0.625);
 }
 
 /* * Reset */
