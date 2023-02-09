@@ -384,6 +384,7 @@ li {
 	transition: none !important;
 }
 
-.product-item-hidden[data-entity="quantity-block"] {
+[data-entity="quantity-block"],
+[data-entity="buttons-block"] {
 	display: none;
 }
