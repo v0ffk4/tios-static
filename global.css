@@ -375,6 +375,10 @@ li {
 	transition: none !important;
 }
 
+.bx-basket-fixed {
+	display: none;
+}
+
 /* *Vendor Catalogue */
 [data-entity="quantity-block"],
 [data-entity="buttons-block"] {
