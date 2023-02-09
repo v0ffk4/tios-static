@@ -364,16 +364,7 @@ li {
 }
 
 /* !Vendor overrides */
-.product-item-detail-pay-block {
-	/* opacity: 0 !important;
-	visibility: hidden !important; */
-}
-
-.product-item-detail-short-card-fixed,
-.product-item-detail-tabs-container-fixed {
-	display: none !important;
-}
-
+/* *Vendor General */
 .landing-main {
 	padding-top: calc(8rem * 0.625) !important;
 }
@@ -384,14 +375,27 @@ li {
 	transition: none !important;
 }
 
+/* *Vendor Catalogue */
 [data-entity="quantity-block"],
 [data-entity="buttons-block"] {
 	display: none;
 }
 
 .product-item-button-container,
+.product-item-compare-container,
 .product-item-amount {
 	opacity: 0;
 	visibility: hidden;
 	display: none;
+}
+
+/* *Vendor Item Page */
+.product-item-detail-pay-block {
+	/* opacity: 0 !important;
+	visibility: hidden !important; */
+}
+
+.product-item-detail-short-card-fixed,
+.product-item-detail-tabs-container-fixed {
+	display: none !important;
 }
