@@ -365,9 +365,9 @@ li {
 
 /* !Vendor overrides */
 /* *Vendor General */
-.landing-main {
+/* .landing-main {
 	padding-block: calc(8rem * 0.625) !important;
-}
+} */
 
 .product-item-info-container .product-item-hidden {
 	opacity: 0 !important;
