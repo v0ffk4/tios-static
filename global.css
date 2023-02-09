@@ -404,7 +404,14 @@ li {
 	display: none !important;
 }
 
-p,
-h6 {
+.product-item-detail-tab-content {
 	font-size: 1.6rem;
+}
+
+.g-font-size-12 {
+	font-size: 1.6rem !important;
+}
+
+h1.mb-3 {
+	margin-top: 8rem;
 }
