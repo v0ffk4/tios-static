@@ -409,7 +409,7 @@
 			}
 		},
 		{
-			"name":"unobtanuim",
+			"name":"unobtanuimSplash",
 			"pbrMetallicRoughness":{
 				"metallicFactor":0.100000001,
 				"roughnessFactor":0.400000006

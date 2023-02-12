@@ -326,10 +326,8 @@
 			}
 		},
 		{
-			"name":"unobtanuim",
+			"name":"unobtanuimSplash",
 			"pbrMetallicRoughness":{
-				"baseColorFactor":[0.86500001,0.932500005,1,1
-				],
 				"metallicFactor":0.100000001,
 				"roughnessFactor":0.400000006
 			}
@@ -337,7 +335,7 @@
 		{
 			"name":"pipe",
 			"pbrMetallicRoughness":{
-				"baseColorFactor":[0.5,0.5,0.5,1
+				"baseColorFactor":[0.666700006,0.666700006,0.666700006,1
 				],
 				"metallicFactor":0.800000012,
 				"roughnessFactor":0.600000024
