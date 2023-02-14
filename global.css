@@ -59,7 +59,7 @@
 	--mq-hd: "1801px";
 
 	/* Dimensions */
-	--main-nav-height-desktop: calc(5.8px * 1);
+	--main-nav-height-desktop: calc(58px * 1);
 }
 
 /* * Reset */
@@ -402,16 +402,4 @@ li {
 .product-item-detail-short-card-fixed,
 .product-item-detail-tabs-container-fixed {
 	display: none !important;
-}
-
-.product-item-detail-tab-content {
-	font-size: 16px;
-}
-
-.g-font-size-12 {
-	font-size: 16px !important;
-}
-
-h1.mb-3 {
-	margin-top: 80px;
 }
