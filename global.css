@@ -59,7 +59,7 @@
 	--mq-hd: "1801px";
 
 	/* Dimensions */
-	--main-nav-height-desktop: calc(5.8rem * 0.625);
+	--main-nav-height-desktop: calc(5.8px * 1);
 }
 
 /* * Reset */
@@ -207,75 +207,75 @@ li {
 }
 
 .text-body {
-	font-size: calc(1.6rem * 0.625);
+	font-size: calc(16px * 1);
 }
 
 .text-screen-title {
 	display: inline-block;
-	font-size: calc(5.6rem * 0.625);
-	line-height: calc(5rem * 0.625);
-	margin-bottom: calc(1.6rem * 0.625);
+	font-size: calc(56px * 1);
+	line-height: calc(50px * 1);
+	margin-bottom: calc(16px * 1);
 	color: hsla(0 0% 30% / 1);
 }
 
 .text-large-title {
-	font-size: calc(3.4rem * 0.625);
-	line-height: calc(4.1rem * 0.625);
+	font-size: calc(34px * 1);
+	line-height: calc(41px * 1);
 	-webkit-font-smoothing: antialiased;
 }
 
 .text-title-1 {
-	font-size: calc(2.8rem * 0.625);
-	line-height: calc(3.4rem * 0.625);
-	margin-bottom: calc(1.2rem * 0.625);
+	font-size: calc(28px * 1);
+	line-height: calc(34px * 1);
+	margin-bottom: calc(12px * 1);
 }
 
 .text-title-2 {
-	font-size: calc(2.2rem * 0.625);
-	line-height: calc(2.8rem * 0.625);
+	font-size: calc(22px * 1);
+	line-height: calc(28px * 1);
 }
 
 .text-title-3 {
-	font-size: calc(2rem * 0.625);
-	line-height: calc(2.5rem * 0.625);
+	font-size: calc(2rem * 1);
+	line-height: calc(25px * 1);
 }
 
 .text-headline {
-	font-size: calc(1.6rem * 0.625);
-	line-height: calc(1.9rem * 0.625);
+	font-size: calc(16px * 1);
+	line-height: calc(19px * 1);
 }
 
 .text-nav {
-	font-size: calc(1.4rem * 0.625);
-	line-height: calc(1.9rem * 0.625);
+	font-size: calc(1.4px * 1);
+	line-height: calc(19px * 1);
 }
 
 .text-footnote {
-	font-size: calc(1.3rem * 0.625);
-	line-height: calc(1.8rem * 0.625);
+	font-size: calc(13px * 1);
+	line-height: calc(18px * 1);
 }
 
 .text-caption {
-	font-size: calc(1.2rem * 0.625);
-	line-height: calc(1.6rem * 0.625);
-	letter-spacing: calc(0.1rem * 0.625);
+	font-size: calc(12px * 1);
+	line-height: calc(16px * 1);
+	letter-spacing: calc(1px * 1);
 }
 
 .text-button {
-	font-size: calc(1.1rem * 0.625);
-	line-height: calc(1.3rem * 0.625);
+	font-size: calc(11px * 1);
+	line-height: calc(13px * 1);
 }
 
 .text-button-caption {
-	font-size: calc(1.1rem * 0.625);
-	line-height: calc(1.1rem * 0.625);
+	font-size: calc(11px * 1);
+	line-height: calc(11px * 1);
 	text-transform: uppercase;
-	letter-spacing: calc(0.3rem * 0.625);
+	letter-spacing: calc(3px * 1);
 }
 
 .text-icon-caption {
-	font-size: calc(1.1rem * 0.625);
-	line-height: calc(1.2rem * 0.625);
+	font-size: calc(11px * 1);
+	line-height: calc(12px * 1);
 }
 
 .text-with-gradient {
@@ -286,15 +286,15 @@ li {
 	-webkit-text-fill-color: transparent;
 	background-color: #21d4fd;
 	background-image: linear-gradient(19deg, #b721ff 0%, #7008a061 100%);
-	padding-bottom: calc(1.6rem * 0.625);
+	padding-bottom: calc(16px * 1);
 }
 
 @media (min-width: 901px) {
 	.text-screen-title {
 		display: inline-block;
-		font-size: calc(8rem * 0.625);
-		line-height: calc(7rem * 0.625);
-		margin-bottom: calc(2.4rem * 0.625);
+		font-size: calc(80px * 1);
+		line-height: calc(70px * 1);
+		margin-bottom: calc(24px * 1);
 	}
 }
 
@@ -332,7 +332,7 @@ li {
 	font-family: primaryText;
 	font-size: 12px;
 	line-height: 16px;
-	letter-spacing: 0.1rem;
+	letter-spacing: 1px;
 	transition: 0.2s ease-out;
 }
 
@@ -366,7 +366,7 @@ li {
 /* !Vendor overrides */
 /* *Vendor General */
 /* .landing-main {
-	padding-block: calc(8rem * 0.625.0) !important;
+	padding-block: calc(80px * 1.0) !important;
 } */
 
 .product-item-info-container .product-item-hidden {
@@ -405,13 +405,13 @@ li {
 }
 
 .product-item-detail-tab-content {
-	font-size: 1.6rem;
+	font-size: 16px;
 }
 
 .g-font-size-12 {
-	font-size: 1.6rem !important;
+	font-size: 16px !important;
 }
 
 h1.mb-3 {
-	margin-top: 8rem;
+	margin-top: 80px;
 }
